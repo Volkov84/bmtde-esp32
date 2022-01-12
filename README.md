@@ -2,12 +2,12 @@
 
 Its Bluetooth version of the [Krasutski/mazda_tape_deck_emulator](https://github.com/Krasutski/mazda_tape_deck_emulator) with an ESP-32.
 
-## Parts
+## Used Parts
 
 - NodeMCU-ESP-32S
 - STPDWN-3P-5V, DC/DC synchronous switching step-down with HX1314G
 
-## Connecting diagram
+## Connection diagram
 
 ![diagram](doc/diagram.png)
 
